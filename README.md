@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://chosealisence.com/licenses/mit/)
 
-https://app.patika.dev/nessli
+[Patika](https://app.patika.dev/nessli)
