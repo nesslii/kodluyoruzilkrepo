@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ## Installation
 Öncelikle projeyi klonlayın.
 '''
-(https://github.com/nesslii/kodluyoruzilkrepo)
+print(https://github.com/nesslii/kodluyoruzilkrepo)
 '''
 ## Usage
  
