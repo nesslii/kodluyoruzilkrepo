@@ -25,3 +25,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://chosealisence.com/licenses/mit/)
+
+[patikadev link] (https://app.patika.dev/nessli)
